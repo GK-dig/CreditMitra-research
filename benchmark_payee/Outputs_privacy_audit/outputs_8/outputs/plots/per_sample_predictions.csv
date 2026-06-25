@@ -1,0 +1,487 @@
+sample_id,ground_truth,pred_base_qwen_2.5_1.5b,pred_fine_tuned_lora,pred_dp_fine_tuned_lora,pred_llama_3.2_1b_meta,pred_gemma_2_2b_google,exact_base_qwen_2.5_1.5b,exact_fine_tuned_lora,exact_dp_fine_tuned_lora,exact_llama_3.2_1b_meta,exact_gemma_2_2b_google
+0,Ramesh Kumar Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar Sharma,Ramesh Kumar Sharma,Ramesh Kumar Sharma,```,0,1,1,1,0
+1,Rohit Tiwari,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohit Tiwari,Rohit Tiwari,rohit tiwari1295@okaxis,```,0,1,1,0,0
+2,Rajeev Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajeev Kumar,Rajeev Kumar,rajeev.kumar82@upi,```,0,1,1,0,0
+3,BigBasket,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,BigBasket,Rajeev Kumar,BigBasket,```,0,1,0,1,0
+4,Arjun Reddy,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Reddy,Arjun Reddy,arjun reddy2214@okaxis,```,0,1,1,0,0
+5,Raseel Khan,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Raseel Khan,Raseel Khan Raseel Khan,Raseel Khan,```,0,1,0,1,0
+6,Rohan Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Sharma,Rohan Sharma,Rohan Sharma,,0,1,1,1,0
+7,Sneha Nair,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Friend,Sneha Nair,Sneha Nair,```,0,0,1,1,0
+8,Priya Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Priya Verma,Priya Verma,Priya Verma,```,0,1,1,1,0
+9,Saurabh Jain,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Saurabh Jain,Saurabh Jain,Saurabh Jain,```,0,1,1,1,0
+10,Priya Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Priya Verma,Priya Verma,Priya Verma,```,0,1,1,1,0
+11,Mahendra Patil,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Mahendra Patil,Mahendra Patil,mahendra patil,```,0,1,1,1,0
+12,Pooja Batra,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Priya Sharma,Priya Sharma,pooja.batra4647@okaxis,```,0,0,0,0,0
+13,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,Rohan Verma,```,0,1,1,1,0
+14,Ramesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar,Ramesh Kumar,Ramesh Kumar,```,0,1,1,1,0
+15,Anjali Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Anjali Sharma,ANJALI SHARMA,ANJALI SHARMA,**ANJALI.SHARMA**,0,1,1,1,0
+16,Meera Joshi,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajan,Rajan's shopMeera Joshi,meera joshi9398@okaxis/PMT for Diwali gifts - Rajan's shop/AXISB/512345678901,,0,0,0,0,0
+17,Harshit Bansal,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Harshit Bansal,Harshit Bansal,Harshit Bansal9622@okaxis,Harshit Bansal,0,1,1,0,1
+18,Neha Kulkarni,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Neha Kulkarni,Neha Kulkarni,Neha Kulkarni,```,0,1,1,1,0
+19,MedPlus,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,MedPlus,MedPlus,PUNJAB NATIONAL BANK,```,0,1,1,0,0
+20,Meera Joshi,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Meera Joshi,Meera Joshi,meera joshi,```,0,1,1,1,0
+21,Sneha Nair,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Sneha Nair,Sneha Nair,Sneha Nair,```,0,1,1,1,0
+22,Shivani Das,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Shivani Das,Shivani Das,YES BANK,```,0,1,1,0,0
+23,Sneha Nair,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Sneha Nair,Sneha Nair,Sneha Nair,Sneha Nair,0,1,1,1,1
+24,Ritika Chawla,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ritika Chawla,Ritika Chawla,Ritika Chawla,```,0,1,1,1,0
+25,Ritika Chawla,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ritika Chawla,Ritika Chawla,Ritika Chawla,```,0,1,1,1,0
+26,Rohit Tiwari,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohit Tiwari,Rohit Tiwari,Rohit Tiwari,```,0,1,1,1,0
+27,Isha Menon,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Isha Menon,Isha Menon,menonishaisha,```,0,1,1,0,0
+28,Saurabh Jain,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Electricity Bill,Saurabh Jain,Saurabh Jain,```,0,0,1,1,0
+29,Aarav Kapoor,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arav Kapoor,Aarav Kapoor,Aarav Kapoor,```,0,0,1,1,0
+30,Arjun Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Sharma,Arjun Sharma,arjun.sharma92@upi/Grocy App,```,0,1,1,0,0
+31,Lakshmi Pillai,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Lakshmi Pillai,Lakshmi Pillai,Lakshmi Pillai,```,0,1,1,1,0
+32,Tanvi Desai,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Tanvi Desai,Tanvi Desai,Tanvi Desai,```,0,1,1,1,0
+33,Rajesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajesh Kumar,Rajesh Kumar,rajesh kumar7890@icici,```,0,1,1,0,0
+34,Priya Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Priya Verma,Priya Verma,Priya Verma,```,0,1,1,1,0
+35,Reliance Fresh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajeev Sharma,Rajeev Sharma,Rajeev.sharma88@paytm/Grocery,```,0,0,0,0,0
+36,Harshit Bansal,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Reliance Smart,Reliance Smart,Harshit Bansal,```,0,0,0,1,0
+37,Arjun Reddy,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Reddy,Arjun Reddy,arjun.reddy1348@okhdfcbank,```,0,1,1,0,0
+38,Aarav Kapoor,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arav Kapoor,Aarav Kapoor,Aarav Kapoor,**Aarav Kapoor**,0,0,1,1,0
+39,Rohit Tiwari,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohit Tiwari,Rohit Tiwari,rohit tiwari,```,0,1,1,1,0
+40,Neha Kulkarni,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Neha Kulkarni,Neha Kulkarni,neha kulkarni,```,0,1,1,1,0
+41,Gaurav Malhotra,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Gaurav Malhotra,Gaurav Malhotra,Gaurav Malhotra,```,0,1,1,1,0
+42,Mahendra Patil,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Mahendra Patil,Mahendra Patil,mahendra patil1002@okhdfcbank,mahendra patil,0,1,1,0,1
+43,Ramesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar,Ramesh Kumar,Ramesh Kumar,```,0,1,1,1,0
+44,Rohit Tiwari,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohit Tiwari,Rohit Tiwari,rohit tiwari684@upi,```,0,1,1,0,0
+45,Air India,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Air India,AirIndia,Only Rs 12500.00,```,0,1,0,0,0
+46,Reliance Fresh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Reliance Fresh,Reliance FreshGrocery,Reliance Fresh,```,0,1,0,1,0
+47,Apoorva Singh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Apoorva Singh,Apoorva Singh,a poorva singh1905@paytm,```,0,1,1,0,0
+48,Lakshmi Pillai,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Lakshmi Pillai,Pillai Lakshmi,lakshmi pillai4563@ibl/PMT,```,0,1,0,0,0
+49,Isha Menon,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Isha Menon,Isha Menon,menon2397@oksbi,```,0,1,1,0,0
+50,Reliance Fresh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Reliance Fresh,Reliance FreshGroceryReliance FreshGrocery,Reliance Fresh,```,0,1,0,1,0
+51,Priya Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Priya Sharma,Priya Sharma,Priya Sharma,```,0,1,1,1,0
+52,Rohit Tiwari,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohit Tiwari,Rohit Tiwari,rohit tiwari,```,0,1,1,1,0
+53,Kiran Mehta,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Kiran Mehta,Kiran Mehta,Kiran Mehta2574@oksbi,```,0,1,1,0,0
+54,Reliance Smart,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ankit Gupta,Ankit Gupta,Reliance Smart,```,0,0,0,1,0
+55,Isha Menon,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Reliance Fresh,Isha Menon,isha menon,```,0,0,1,1,0
+56,Gaurav Malhotra,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Gaurav Malhotra,Gaurav Malhotra,gaurav.malhotra7848@okhdfcbank,```,0,1,1,0,0
+57,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,Rohan Verma,**rahul.sharma8091@upi**,0,1,1,1,0
+58,Pooja Batra,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Pooja Batra,Pooja Batra,pooja.batra7923@okhdfcbank,```,0,1,1,0,0
+59,Neha Kulkarni,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Neha Kulkarni,Neha Kulkarni,Neha Kulkarni,```,0,1,1,1,0
+60,Rajeev Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajeev Kumar,Rajeev Kumar,Rajeev.kumar78@paytm,```,0,1,1,0,0
+61,Vivek Iyer,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Vivek Iyer,VIVEK IYERThe Payee for IMPSTRFvivek iyer,vivek iyer2819@paytm,```,0,1,0,0,0
+62,Nandini Roy,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Nandini Roy,Nandini Roy,nandini roy,nandini roy,0,1,1,1,1
+63,Isha Menon,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Isha Menon,Isha Menon,Isha Menon,**isha menon**,0,1,1,1,0
+64,Apoorva Singh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Apoorva Singh,Apoorva Singh,Apoorva Singh,```,0,1,1,1,0
+65,Vivek Iyer,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Vivek Iyer,VIVEK IYER,vivek iyer7375@upi,```,0,1,1,0,0
+66,JioMart,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,JioMart,JioMart,JioMart,```,0,1,1,1,0
+67,Arjun Reddy,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Reddy,Arjun Reddy,Arjun Reddy98@okhdfcbank,```,0,1,1,0,0
+68,Gaurav Malhotra,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Gaurav Malhotra,Gaurav Malhotra,gaurav malhotra6403@okaxis,```,0,1,1,0,0
+69,Ramesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar,Ramesh Kumar,Ramesh Kumar,```,0,1,1,1,0
+70,MakeMyTrip,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,MakeMyTrip,MakeMyTrip,ICICI MMT@ICICIBANK REF:XYZ123 ONLY RS,```,0,1,1,0,0
+71,Reliance Fresh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Reliance Fresh,Reliance FreshLakshmi Pillai,Lakshmi Pillai7793@okaxis,Lakshmi pillai,0,1,0,0,0
+72,Nykaa,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Nykaa,Nykaa Cosmetics,Nykaa,```,0,1,0,1,0
+73,Mahendra Patil,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Mahendra Patil,Mahendra Patil,ICICI Bank,```,0,1,1,0,0
+74,manoj yadav9651@ybl,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Manoj Yadav,Manoj YadavadThe Payee of the mentioned transaction is Manoj Yadavad,manoj yadav9651@ybl,manoj yadav9651@ybl,0,0,0,1,1
+75,Arjun Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Sharma,Arjun Sharma,arjun.sharma1988@paytm,```,0,1,1,0,0
+76,Neha Kulkarni,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Grocery Bill,Neha Kulkarni The payee in this transaction is Neha Kulkarni,Neha Kulkarni,```,0,0,0,1,0
+77,Kiran Mehta,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Kiran Mehta,Kiran Mehta,kiran mehta,```,0,1,1,1,0
+78,Reliance Jio,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Reliance Jio,Reliance Jio,reliancejio,```,0,1,1,0,0
+79,Ramesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar,Ramesh Kumar,Ramesh Kumar,```,0,1,1,1,0
+80,Ritika Chawla,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ritika Chawla,Ritika Chawla,Ritika Chawla,```,0,1,1,1,0
+81,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,Rohan Verma,```,0,1,1,1,0
+82,Mahendra Patil,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Mahendra Patil,Mahendra Patil,mahendra patil5249@paytm,```,0,1,1,0,0
+83,Rajeev Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajeev Kumar,Rajeev Kumar,Rajeev Kumar,```,0,1,1,1,0
+84,Ramesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar,Ramesh Kumar Ramesh Kumar,Ramesh Kumar,```,0,1,0,1,0
+85,Sneha Nair,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Sneha Nair,Sneha Nair,Sneha Nair,```,0,1,1,1,0
+86,Vivek Iyer,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Vivek Iyer,Vivek Iyer,vivek iyer4088@okhdfcbank,vivek iyer,0,1,1,0,1
+87,Pantaloons,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Pantaloons,Pantaloons,UPI,```,0,1,1,0,0
+88,Rajesh Kumar Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajesh Kumar Sharma,Rajesh Kumar Sharma Rajesh Kumar Sharma,Rajesh Kumar Sharma,```,0,1,0,1,0
+89,Raghav Bhatia,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Raghav Bhatia,Raghav Bhatia,Raghav Bhatia,```,0,1,1,1,0
+90,Kiran Mehta,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Kiran Mehta,Kiran Mehta,Paytm,kiran mehta,0,1,1,0,1
+91,Priya Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Priya Verma,Priya Verma,priya.verma1792@ibl,```,0,1,1,0,0
+92,Rajesh Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajesh Sharma,Rajesh Sharma,aarav.kapoor6097@upi,```,0,1,1,0,0
+93,Vijay Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Vijay Kumar,Vijay Kumar,vijay kumar/INDUSIND,```,0,1,1,0,0
+94,Harshit Bansal,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Harshit Bansal,Harshit Bansal,Harshit Bansal,```,0,1,1,1,0
+95,Yash Nigam,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,BigBasket,Yash Nigam,BigBasket,```,0,0,1,0,0
+96,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,Rohan Verma,```,0,1,1,1,0
+97,Vivek Iyer,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Vivek Iyer,Vivek Iyer,vivek.iyer3372@ybl,vivek.iyer3372@ybl,0,1,1,0,0
+98,Amit Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Amit Sharma,Amit Sharma,Amit Sharma,```,0,1,1,1,0
+99,Apoorva Singh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Oprava Singh,Apoorva Singh,A poorva singh7504@okhdfcbank,```,0,0,1,0,0
+100,Nikhil Arora,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Nikhil Arora,Nikhil Arora,nikhil arora5533@okaxis/Grocery,```,0,1,1,0,0
+101,Priya Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Priya Sharma,Priya Sharma,Priya Sharma,```,0,1,1,1,0
+102,Shivam Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Shivam Kumar,shivam kumarThe Payee for this transaction is Shivam K Kumar,shivam kumar789@paytm,```,0,1,0,0,0
+103,Ramesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar,Ramesh Kumar,Ramesh Kumar,```,0,1,1,1,0
+104,Nikhil Arora,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar,Nikhil Arora Ramesh Kumar Ramesh Kumar,Nikhil Arora,```,0,0,0,1,0
+105,Ramesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar,Ramesh Kumar,Ramesh Kumar,```,0,1,1,1,0
+106,Rajesh Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajesh Sharma,Rajesh Sharma,Rajesh Sharma,```,0,1,1,1,0
+107,Arjun Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Sharma,Arjun Sharma,arjun.sharma79@upi,```,0,1,1,0,0
+108,Pooja Batra,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Pooja Batra,Pooja Batra,Pooja Batra,Pooja Batra,0,1,1,1,1
+109,Ritika Chawla,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ritika Chawla,Ritika Chawla,RITIKA CHAWLA,RITIKA CHAWLA,0,1,1,1,1
+110,Ankit Gupta,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ankit Gupta,Ankit Gupta,Ankit Gupta,```,0,1,1,1,0
+111,Mahendra Patil,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Mahendra Patil,Mahendra Patil,mahendra patil,mahendra patil,0,1,1,1,1
+112,arjun verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,BigBasket,Arjun Verma,arjun verma789@upi,```,0,0,1,0,0
+113,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,Rohan Verma,```,0,1,1,1,0
+114,Nikhil Arora,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Nikhil Arora,Nikhil Arora,nikhil arora8194@okaxis,**nikhil arora**,0,1,1,0,0
+115,Nandini Roy,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Nandini Roy,Nandini Roy,Nandini Roy,```,0,1,1,1,0
+116,Arjun Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Sharma,Arjun Sharma,arjun.sharma1992@upi,```,0,1,1,0,0
+117,Shreya Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Shreya Sharma,Shreya Sharma,Shreya Sharma,**Shreya Sharma**,0,1,1,1,0
+118,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,Rohan Verma,```,0,1,1,1,0
+119,Shivani Das,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Shivani Das,Shivani Das,shivani das,```,0,1,1,1,0
+120,Isha Menon,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Isha Menon,Isha Menon,isha menon6909@paytm,```,0,1,1,0,0
+121,Rajeev Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajeev Kumar,Rajeev Kumar,Rajeev Kumar,```,0,1,1,1,0
+122,Dominos Pizza,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Domino's Pizza,Dominos Pizza,Domino's Pizza,```,0,0,1,0,0
+123,Ritika Chawla,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ritika Chawla,Ritika Chawla,BigBasket,```,0,1,1,0,0
+124,DMart,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,DMart,DMART Express DMART ICICIBank,DMART@ICICIBANK,```,0,1,0,0,0
+125,Reliance Fresh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Reliance Fresh,Arjun Reddy,Reliance Fresh,```,0,1,0,1,0
+126,Aarav Kapoor,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arav Kapoor,Aarav Kapoor,Aarav Kapoor,**Aarav Kapoor**,0,0,1,1,0
+127,Sneha Nair,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Vishal Nair,Sneha Nair,Sneha Nair,Sneha Nair,0,0,1,1,1
+128,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,rohanv78@ibl,```,0,1,1,0,0
+129,Vivek Iyer,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Vivek Iyer,Vivek Iyer,vivek iyer251@upi,vivek iyer251@upi,0,1,1,0,0
+130,Arjun Reddy,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Reddy,Arjun Reddy,Arjun Reddy,```,0,1,1,1,0
+131,Apollo Pharmacy,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Apollo Pharmacy,Apollo Pharmacy,Apollo Pharmacy,```,0,1,1,1,0
+132,Vivek Iyer,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Vivek Iyer,Vivek Iyer,Vivek Iyer,```,0,1,1,1,0
+133,Raseel Khan,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Raseel Khan,Raseel Khan,RASEEL KHAN,```,0,1,1,1,0
+134,Neha Kulkarni,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Neha Kulkarni,Neha Kulkarni,Neha Kulkarni,```,0,1,1,1,0
+135,Raseel Khan,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Raseel Khan,Raseel Khan,Raseel Khan,```,0,1,1,1,0
+136,Ritika Chawla,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ritika Chawla,Ritika Chawla,Ritika Chawla,```,0,1,1,1,0
+137,Arjun Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Verma,Arjun Verma,arjun.verma78@paytm/REF 87654321/Axis Bank Ltd,```,0,1,1,0,0
+138,Reliance Fresh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Reliance Fresh,Reliance Fresh,Meera joshi4761@ybl/Grocery,```,0,1,1,0,0
+139,Reliance Fresh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Reliance Fresh,Manoj Yadav,Mojayadav6505@ybl/Grocery,```,0,1,0,0,0
+140,Meera Joshi,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Meera Joshi,Meera Joshi,Meera Joshi,Meera Joshi,0,1,1,1,1
+141,Rohit Tiwari,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohit Tiwari,Rohit Tiwari,Rohit Tiwari,```,0,1,1,1,0
+142,BigBasket,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohit Tiwari,Rohit Tiwari,BigBasket,```,0,0,0,1,0
+143,Meera Joshi,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Meera Joshi,Meera Joshi,meera joshi,meera joshi,0,1,1,1,1
+144,Reliance Fresh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Reliance Fresh,Shivani Das,Shivani Das,```,0,1,0,0,0
+145,Amit Sinha,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,amit sinha,Amit Sinha,amit sinha485@okaxis,```,0,1,1,0,0
+146,Neha Kulkarni,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Neha Kulkarni,Neha Kulkarni,neha kulkarni7387@ibl/Grocery,```,0,1,1,0,0
+147,Rajeev Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajeev Kumar,Rajeev Kumar,Rajeev.kumar8921@upi,```,0,1,1,0,0
+148,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Raghav Bhatia,Rohan Verma,```,0,1,0,1,0
+149,Ramesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar,Ramesh Kumar,Ramesh Kumar,```,0,1,1,1,0
+150,Arjun Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Sharma,Arjun Sharma,Arjun Sharma,```,0,1,1,1,0
+151,MakeMyTrip,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,MakeMyTrip,MakeMyTrip,MakeMyTrip,```,0,1,1,1,0
+152,Rahul Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rahul Sharma,Rahul Sharma,Rahul Sharma,```,0,1,1,1,0
+153,Isha Menon,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Isha Menon,Isha Menon,Isha Menon,```,0,1,1,1,0
+154,Daulat Rao,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Daulat Rao,Daulat Rao,daulat rao,**Answer:** daulat rao,0,1,1,1,0
+155,Air India,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Air India,ICICI Bank,AIR INDIA,```,0,1,0,1,0
+156,Arjun Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Sharma,Arjun Sharma,arjun.sharma92@paytm,```,0,1,1,0,0
+157,Arjun Singh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Singh,Arjun Singh The Payee is Arjun Singh,arjun.singh789@paytm,```,0,1,0,0,0
+158,Isha Menon,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Isha Menon,Isha Menon,isha menon7760@okhdfcbank,```,0,1,1,0,0
+159,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,Harshit Bansal,**harshit bansal**,0,1,1,0,0
+160,Rajesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajesh Kumar,Rajesh Kumar Rajesh Kumar,daulat rao,```,0,1,0,0,0
+161,Sneha Nair,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Sneha Nair,Sneha Nair,Sneha Nair,Sneha Nair,0,1,1,1,1
+162,Rajesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajesh Kumar,Raghav Bhatia,Raghav Bhatia,,0,1,0,0,0
+163,Grofers India Pvt Ltd,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Grofers India,Grofers India Pvt Ltd,ICICI BANK,```,0,0,1,0,0
+164,Mahendra Patil,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Mahendra Patil,Mahendra Patil,mahendra patil4939@okhdfcbank,```,0,1,1,0,0
+165,Meera Joshi,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Meera Joshi,Meera Joshi,Meera joshi4053@okaxis,```,0,1,1,0,0
+166,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,Rohan Verma,```,0,1,1,1,0
+167,Vivek Iyer,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Vivek Iyer,VIVEK IYER,vivek iyer1022@okhdfcbank,vivek iyer,0,1,1,0,1
+168,Tanvi Desai,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Tanvi Desai,Tanvi Desai,tanvi desai5348@oksbi,```,0,1,1,0,0
+169,Reliance Smart,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Shivani Das,Shivani Das,Shivani das,```,0,0,0,0,0
+170,Manoj Yadav,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Manoj Yadav,Manoj Yadav,Moj Yadav,```,0,1,1,0,0
+171,Flipkart,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Flipkart,Flipkart,Flipkart,```,0,1,1,1,0
+172,Aarav Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arav Sharma,Aarav Sharma,Aarav Sharma,```,0,0,1,1,0
+173,Rahul Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Raj,Raj,Rahul Sharma,```,0,0,0,1,0
+174,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,Rohan Verma,```,0,1,1,1,0
+175,Reliance Fresh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Sharma,Reliance FreshArjun Sharma,arjun.sharma92@paytm/Grocery,```,0,0,0,0,0
+176,Rohit Tiwari,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohit Tiwari,Rohit Tiwari,Rohit Tiwari,```,0,1,1,1,0
+177,Vivek Iyer,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Vivek Iyer,Vivek Iyer,Vivek Iyer623@ibl,```,0,1,1,0,0
+178,Rajesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajesh Kumar,Rajesh Kumar,mahendra patil,```,0,1,1,0,0
+179,Rohit Tiwari,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohit Tiwari,Rohit Tiwari,rohit tiwari6345@okaxis,```,0,1,1,0,0
+180,Lakshmi Pillai,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Lakshmi Pillai,Lakshmi Pillai,Lakshmi Pillai,Lakshmi Pillai,0,1,1,1,1
+181,Priyanka Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Priyanka Sharma,Priyanka Sharma Priyanka Sharma,priyanka sharma,**priyanka sharma**,0,1,0,1,0
+182,Rajeev Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajeev Sharma,Rajeev Sharma,rajeev.sharma92@paytm,rajeev.sharma92@paytm,0,1,1,0,0
+183,Aman Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Amman Sharma,Aman Sharma Aman Sharma,Aman Sharma,```,0,0,0,1,0
+184,Rohit Tiwari,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohit Tiwari,Rohit Tiwari,Rohit Tiwari,```,0,1,1,1,0
+185,Rohan Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Sharma,Rohan Sharma,Rohan Sharma,**Rohan Sharma**,0,1,1,1,0
+186,Manoj Yadav,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Manoj Yadav,Manoj Yadav,manoj yadav,manoj yadav,0,1,1,1,1
+187,Ola,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ola,Ola Cabins Ola,Ola Mobility,Ola,0,1,0,0,1
+188,Shivani Das,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Shivani Das,Shivani Das,Shivani Das,Shivani Das,0,1,1,1,1
+189,Gaurav Malhotra,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Gaurav Malhotra,Gaurav Malhotra The Payee is Gaurav Malhotra,gaurav.malhotra3650@upi,```,0,1,0,0,0
+190,Shreya,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Shreya,Shreya,Shreya,**Answer:**,0,1,1,1,0
+191,Tanvi Desai,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Tanvi Desai,Tanvi Desai,tanvi desai1525@ybl,tanvi desai,0,1,1,0,1
+192,BigBasket,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,BigBasket,Amit Sinha,Amit Sinha,```,0,1,0,0,0
+193,Tanvi Desai,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Tanvi Desai,Tanvi Desai,Tanvi Desai,```,0,1,1,1,0
+194,Harshit Bansal,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Harshit Bansal,Harshit Bansal,Harshit Bansal,```,0,1,1,1,0
+195,Grofers,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Grofers India,Grofers India Pvt Ltd,Grofers India Pvt Ltd,```,0,0,0,0,0
+196,Priya Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Priya Verma,Priya Verma,Priya Verma,```,0,1,1,1,0
+197,Rajesh Kumar Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajesh Kumar Sharma,Rajesh Kumar Sharma,ICICI,```,0,1,1,0,0
+198,Aarav Kapoor,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arav Kapoor,Aarav Kapoor,Aarav Kapoor,```,0,0,1,1,0
+199,Arjun Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Reliance Fresh,Arjun Sharma,Reliance Fresh,```,0,0,1,0,0
+200,Shivani Das,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Shivani Das,Shivani Das,Shivani Das,```,0,1,1,1,0
+201,Ritika Chawla,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ritika Chawla,Ritika Chawla,Ritika Chawla,```,0,1,1,1,0
+202,Priya Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Priya Verma,Priya Verma,Priya Verma,```,0,1,1,1,0
+203,Mahendra Patil,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Mahendra Patil,Mahendra Patil,mahendra patil,mahendra patil,0,1,1,1,1
+204,Vivek Iyer,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Vivek Iyer,Vivek Iyer,vivek iyer,```,0,1,1,1,0
+205,Isha Menon,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Isha Menon,Isha Menon,Isha Menon,```,0,1,1,1,0
+206,Isha Menon,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Isha Menon,Isha Menon,menon1826@okaxis,```,0,1,1,0,0
+207,Reliance Jio,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Reliance Jio,Reliance Jio,reliancejio@upi/Jio Recharge/RefNo:9876543210/AXISB/**L234567890123456789,**reliancejio**,0,1,1,0,0
+208,Apoorva Singh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Apoorva Singh,Apoorva Singh,Apoorva Singh,```,0,1,1,1,0
+209,Arjun Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Sharma,Arjun Sharma,arjun.sharma89@paytm,```,0,1,1,0,0
+210,Ajio,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,AJIO,AJIO,AJIO,```,0,1,1,1,0
+211,Ritika Chawla,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ritika Chawla,Ritika Chawla,RITIKA CHAWLA5979@okhdfcbank,```,0,1,1,0,0
+212,Isha Menon,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Isha Menon,Isha Menon,menonishaisha,```,0,1,1,0,0
+213,Tanvi Desai,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Tanvi Desai,Tanvi Desai,Tanvi Desai7980@IBL/REF 456789,```,0,1,1,0,0
+214,Rajeev Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajeev Kumar,Rajeev Kumar,REF-Grocery,```,0,1,1,0,0
+215,Meera Joshi,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Meera Joshi,Meera Joshi,meera joshi8361@upi,```,0,1,1,0,0
+216,Kiran Mehta,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Kiran Mehta,Kiran Mehta,Kiran Mehta,**Kiran Mehta**,0,1,1,1,0
+217,Lakshmi Pillai,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Lakshmi Pillai,Lakshmi Pillai,lakshmi pillai3814@oksbi,```,0,1,1,0,0
+218,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,Rohan Verma/PMT via PhonePe/ROHAN.VERMA789@UPI/ONLY RS 250.00//AXLF2,Rohan Verma,0,1,1,0,1
+219,Pooja Batra,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Pooja Batra,Pooja Batra,Pooja Batra,Pooja Batra,0,1,1,1,1
+220,Priya Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Priya Verma,Priya Verma,priya verma4317@ybl,```,0,1,1,0,0
+221,Kiran Mehta,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Kiran Mehta,Kiran Mehta,BigBasket,```,0,1,1,0,0
+222,Rohit Tiwari,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohit Tiwari,Rohit Tiwari,rohit tiwari4265@okhdfcbank,```,0,1,1,0,0
+223,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,Rohan Verma,```,0,1,1,1,0
+224,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma Verma Rohan The Payee is Rohan Verma Verma.,Rohan Verma,**Rohan Verma**,0,1,0,1,0
+225,Isha Menon,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Isha Menon,Isha Menon,isha menon847@upi,```,0,1,1,0,0
+226,Shivani Das,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Shivani Das,Shivani Das,shivani das,```,0,1,1,1,0
+227,Lakshmi Pillai,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Lakshmi Pillai,Pillai Lakshmi,Lakshmi Pillai,```,0,1,0,1,0
+228,Nykaa,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Nykaa,Nykaa Cosmetics Nykay,Nykaa,```,0,1,0,1,0
+229,Rahul Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rahul Sharma,Rahul Sharma,Rahul Sharma,```,0,1,1,1,0
+230,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,Rohan Verma,Rohan Verma,0,1,1,1,1
+231,Rajesh Kumar Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajesh Kumar Sharma,Rajesh Kumar Sharma Rajesh Kumar Sharma,Rajesh Kumar Sharma,```,0,1,0,1,0
+232,Ramesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar,Ramesh Kumar,Ramesh Kumar,```,0,1,1,1,0
+233,Rohan Varma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Varma,Rohan Varma,Harshit Bansal,```,0,1,1,0,0
+234,Sneha Nair,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Vipin Nair,Sneha Nair,Sneha Nair5934@ybl,Sneha Nair,0,0,1,0,1
+235,Rajesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajesh Kumar,Rajesh Kumar,Rajesh Kumar,```,0,1,1,1,0
+236,Vivek Iyer,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Vivek Iyer,VIVEK IYER,vivek iyer,```,0,1,1,1,0
+237,Priya Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Priya Verma,Priya Verma,Priya Verma,Priya Verma,0,1,1,1,1
+238,Saurabh Jain,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Saurabh Jain,Saurabh Jain,Saurabh Jain8148@okhdfcbank,```,0,1,1,0,0
+239,Rajesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajesh Kumar,Rajesh Kumar,Rajesh Kumar,```,0,1,1,1,0
+240,Arjun Singh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Singh,Arjun Singh,arjun.singh78@upi/PMT,**arjun.singh78@upi**,0,1,1,0,0
+241,Isha Menon,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Isha Menon,Isha Menon,isha menon2317@ybl,```,0,1,1,0,0
+242,Neha Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Neha Sharma,Neha Sharma,pooja.batra3132@ybl,```,0,1,1,0,0
+243,Neha Kulkarni,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Indusind Bank,Neha Kulkarni,Neha Kulkarni,```,0,0,1,1,0
+244,Lakshmi Pillai,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Lakshmi Pillai,Lakshmi Pillai,lakshmi pillai5467@okaxis/Grocery,lakshmi pillai,0,1,1,0,1
+245,Tanvi Desai,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Groceries,Groceries,Tanvi Desai,```,0,0,0,1,0
+246,Rajesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajesh Kumar,Rajesh Kumar,ICICI1234567890abcdefghijklmn,```,0,1,1,0,0
+247,Ramesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar,Ramesh Kumar Ramesh Kumar,Ramesh Kumar,```,0,1,0,1,0
+248,Ritika Chawla,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ritika Chawla,Ritika Chawla,RITIKA CHAWLA,RITIKA CHAWLA,0,1,1,1,1
+249,Arjun Reddy,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Reddy,Arjun Reddy,arjun reddy7700@oksbi/Grocery,```,0,1,1,0,0
+250,Tanvi Desai,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,tanvi desai,Tanvi Desai,Tanvi Desai,```,0,1,1,1,0
+251,Arjun Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Sharma,Arjun Sharma,Arjun Sharma,```,0,1,1,1,0
+252,Manoj Yadav,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Manoj Yadav,Manoj Yadav,manoj yadav2345@upi,manoj yadav,0,1,1,0,1
+253,Manoj Yadav,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Manoj Yadav,Manoj Yadav,M Anjali,manoj yadav,0,1,1,0,1
+254,Tanvi Desai,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Tanvi Desai,Tanvi Desai,tanvi desai,tanvi desai,0,1,1,1,1
+255,Arjun Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Reliance Fresh,Arjun Sharma,arjun.sharma92@upi/Grocery,```,0,0,1,0,0
+256,Aarav Kapoor,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Friend,Aarav Kapoor,Aarav Kapoor,```,0,0,1,1,0
+257,Rohit Tiwari,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohit Tiwari,Rohit Tiwari,Rohit Tiwari,```,0,1,1,1,0
+258,Lakshmi Pillai,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Lakshmi Pillai,Lakshmi Pillai,Lakshmi Pillai,Lakshmi pillai,0,1,1,1,1
+259,Rajesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajesh Kumar,Rajesh Kumar,Rajesh Kumar7891@paytm,```,0,1,1,0,0
+260,Priya Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Priya Sharma,Priya Sharma,Priya Sharma,```,0,1,1,1,0
+261,Rahul Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rahul Sharma,Rahul Sharma,rahul.sharma6344@ybl/Mobile Recharge - Airtel Prepaid/AXISB/512345678901/UPI,**rahul.sharma6344@ybl**,0,1,1,0,0
+262,Ramesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar,Ramesh Kumar Ramesh Kumar,Ramesh Kumar,```,0,1,0,1,0
+263,Neha Kulkarni,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Groceries,Neha Kulkarni,Neha Kulkarni,```,0,0,1,1,0
+264,Sneha Nair,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Bill Payment,Sneha Nair,Sneha Nair4636@okhdfcbank,```,0,0,1,0,0
+265,Sneha Nair,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,For groceries,Sneha Nair,Sneha Nair,```,0,0,1,1,0
+266,Amit Sinha,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Amit Sinha,Amit Sinha,Amit Sinha,```,0,1,1,1,0
+267,Arjun Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Sharma,Arjun Sharma,Arjun Sharma,```,0,1,1,1,0
+268,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,Rohan Verma,```,0,1,1,1,0
+269,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,Rohan Verma,```,0,1,1,1,0
+270,Rajesh Kumar Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajesh Kumar Sharma,Rajesh Kumar Sharma,Rajesh Kumar Sharma,```,0,1,1,1,0
+271,Isha Menon,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Isha Menon,Isha Menon,Isha Menon,```,0,1,1,1,0
+272,BookMyShow,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,BookMyShow,BookMyShow,BookMyShow,```,0,1,1,1,0
+273,Isha Menon,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Isha Menon,Isha Menon,Isha Menon,```,0,1,1,1,0
+274,Sneha Nair,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Sneha Nair,Sneha Nair,S. NAIR,```,0,1,1,0,0
+275,Aarav Kapoor,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arav Kapoor,Aarav Kapoor,Aarav Kapoor,```,0,0,1,1,0
+276,Gaurav Malhotra,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Gaurav Malhotra,Gaurav Malhotra,gaurav malhotra1453@paytm/TRF,```,0,1,1,0,0
+277,Rohan Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Sharma,Rohan Sharma,Rohan Sharma,**Rohan Sharma**,0,1,1,1,0
+278,Reliance Fresh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Reliance Fresh,Arjun Sharma,Reliance Fresh,```,0,1,0,1,0
+279,Raghav Bhatia,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Raghav Bhatia,Shagun,Shagun,,0,1,0,0,0
+280,Rohit Tiwari,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohit Tiwari,Rohit Tiwari,rohit tiwari7062@oksbi,```,0,1,1,0,0
+281,Harshit Bansal,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Harshit Bansal,Harshit Bansal,Harshit Bansal,```,0,1,1,1,0
+282,Meera Joshi,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Meera Joshi,Meera Joshi Meera Joshi,Meera Joshi,**Meera Joshi**,0,1,0,1,0
+283,Apoorva Singh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,apoorva singh,AprooVa Singh,apoorva singh8305@ibl,```,0,1,0,0,0
+284,Swiggy,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Swiggy,AXL9B2C3D4E5G7I9JK5LK8MPTSwiggy,PMT,```,0,1,0,0,0
+285,Arjun Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Sharma,Arjun Sharma,arjun.sharma78@upi,```,0,1,1,0,0
+286,BigBasket,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,BigBasket,Yash Nigam,yash nigam762@oksbi,yash nigam,0,1,0,0,0
+287,Aniket Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Aniket Sharma,Aniket Sharma,ANIKET SHARMA,**ANIKET SHARMA**,0,1,1,1,0
+288,Reliance Fresh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Reliance Fresh,Reliance Fresh Express Reliance Pillai,Lakshmi Pillai,```,0,1,0,0,0
+289,Gaurav Malhotra,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Gaurav Malhotra,Gaurav Malhotra,Gaurav Malhotra,```,0,1,1,1,0
+290,Ramesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar,Ramesh Kumar,Ramesh Kumar,```,0,1,1,1,0
+291,Arjun Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Sharma,Arjun Sharma,arjun.sharma78@paytm,```,0,1,1,0,0
+292,Harshit Bansal,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Harshit Bansal,Harshit Bansal,Harshit Bansal,```,0,1,1,1,0
+293,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,Rohan Verma,```,0,1,1,1,0
+294,Amit Sinha,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Amit Sinha,Amit Sinha,Amit Sinha9237@paytm,```,0,1,1,0,0
+295,Manoj Yadav,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Manoj Yadav,Manoj Yadav,manoj yadav6399@paytm,manoj yadav,0,1,1,0,1
+296,Amit Sinha,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Amit Sinha,Amit Sinha,Theobroma, Pune,Amit Sinha,0,1,1,0,1
+297,Shreya Patel,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Shreya Patel,Shreya Patel,Meera joshi7260@ibl/REF-4567/P2P TXN - Shreya Patel,```,0,1,1,0,0
+298,Tanvi Desai,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Tanvi Desai,Tanvi Desai,Tanvi Desai,tanvi desai,0,1,1,1,1
+299,Rohit Tiwari,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohit Tiwari,Rohit Tiwari,Rohit Tiwari8333@okhdfcbank,```,0,1,1,0,0
+300,Aarav Kapoor,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arav Kapoor,Aarav Kapoor,Aarav Kapoor549@okaxis,```,0,0,1,0,0
+301,Meera Joshi,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Meera Joshi,Meera Joshi,Meera joshi,```,0,1,1,1,0
+302,Rahul Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rahul Sharma,Rahul Sharma,rahul.sharma89@upi,```,0,1,1,0,0
+303,Pooja Batra,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Pooja Batra,Pooja Batra,pooja batra958@upi,```,0,1,1,0,0
+304,Rahul Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rahul Sharma,Rahul Sharma,Rahul Sharma,```,0,1,1,1,0
+305,Harshit Bansal,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Harshit Bansal,Harshit Bansal,Harshit Bansal,Harshit Bansal,0,1,1,1,1
+306,Ramesh Kumar Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar Sharma,Ramesh Kumar Sharma Ramesh Kumar Sharma,Ramesh Kumar Sharma,**Ramesh Kumar Sharma**,0,1,0,1,0
+307,Lakshmi Pillai,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Lakshmi Pillai,Lakshmi Pillai,Lakshmi Pillai,```,0,1,1,1,0
+308,Meera Joshi,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Meera Joshi,Meera Joshi,meera joshi7356@okhdfcbank,```,0,1,1,0,0
+309,Nykaa,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Nykaa,Nykaa,Nykaa,```,0,1,1,1,0
+310,IndiGo Airlines,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,IndiGo Airlines,IndiGo AirlinesThe Payee is IndiGo Airlines The Payee is IndiGo Airlines,VISA,```,0,1,0,0,0
+311,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,Rohan Verma,```,0,1,1,1,0
+312,Nikhil Arora,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Nilak Arora,Nikhil Arora,nikhil arora4728@upi,```,0,0,1,0,0
+313,Nikhil Arora,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Nikhil Arora,Nikhil Arora,nikhil arora954@paytm,```,0,1,1,0,0
+314,Ramesh Kumar Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar Sharma,Ramesh Kumar Sharma Ramesh Kumar Sharma,Ramesh Kumar Sharma,**Ramesh Kumar Sharma**,0,1,0,1,0
+315,Rahul Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rahul Sharma,Rahul Sharma,rahul sharma2268@upi,```,0,1,1,0,0
+316,Priya Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Priya Verma,Priya Verma,Priya Verma,```,0,1,1,1,0
+317,Apoorva Singh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Apoorva Singh,Apoorva Singh,Apoorva Singh2451@oksbi,```,0,1,1,0,0
+318,Nikhil Arora,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,NIKHIL ARORA,Nikhil Arora,nikhil arora5696@ibl,```,0,1,1,0,0
+319,Neha Kulkarni,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Neha Kulkarni,Neha Kulkarni,neha kulkarni3217@okhdfcbank,```,0,1,1,0,0
+320,Sneha Nair,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Sneha Nair,Sneha Nair,Sneha nair9885@paytm,```,0,1,1,0,0
+321,Arjun Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Sharma,Arjun Sharma,arjun sharma,```,0,1,1,1,0
+322,Pooja Batra,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Pooja Batra,Pooja Batra,Pooja Batra,Pooja Batra,0,1,1,1,1
+323,Manoj Yadav,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Manoj Yadav,Manoj Yadav,manoj yadav5806@okaxis/ICICI BANK/REF-8976543210/UPI,```,0,1,1,0,0
+324,Harshit Bansal,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Harshit Bansal,Harshit Bansal,Harshit Bansal2168@upi,```,0,1,1,0,0
+325,Aarav Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arav Sharma,Aarav Sharma,Aarav Sharma,```,0,0,1,1,0
+326,Arjun Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Sharma,Arjun Sharma,arjun.sharma78@upi,```,0,1,1,0,0
+327,Saurabh Jain,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Groceries,Saurabh Jain,Saurabh Jain,```,0,0,1,1,0
+328,Rohit Tiwari,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohit Tiwari,Rohit Tiwari,BigBasket,```,0,1,1,0,0
+329,Lakshmi Pillai,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,IndusInd Bank,Lakshmi Pillai,Lakshmi Pillai,Lakshmi Pillai,0,0,1,1,1
+330,Meera Joshi,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Meera Joshi,Meera Joshi,meera joshi5628@okhdfcbank,meera joshi,0,1,1,0,1
+331,Aarav Kapoor,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arav Kapoor,Aarav Kapoor,Aarav Kapoor,```,0,0,1,1,0
+332,Neha Kulkarni,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Neha Kulkarni,Neha Kulkarni,Neha Kulkarni738@oksbi,```,0,1,1,0,0
+333,Arjun Reddy,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Reddy,Arjun Reddy,Arjun Reddy,```,0,1,1,1,0
+334,Arjun Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Sharma,Arjun Sharma,arjun.sharma89@paytm,```,0,1,1,0,0
+335,Apoorva Singh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Grocery Bill,Apoorva Singh,Apoorva Singh,```,0,0,1,1,0
+336,Priya Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Priya Verma,Priya Verma,Priya Verma,Priya Verma,0,1,1,1,1
+337,Priya Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Priya Sharma,Priya Sharma,Priya Sharma,```,0,1,1,1,0
+338,Rohit Tiwari,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohit Tiwari,Rohit Tiwari,Rohit Tiwari,```,0,1,1,1,0
+339,Ramesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar,Ramesh Kumar,Ramesh Kumar92@paytm,```,0,1,1,0,0
+340,Rahul Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rahul Sharma,Rahul Sharma,Rahul Sharma,```,0,1,1,1,0
+341,Rajesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajesh Kumar,Rajesh Kumar,rajesh kumar789@paytm,```,0,1,1,0,0
+342,Arjun Reddy,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Grofers India,Grofers India Pvt Ltd,Grofers India Pvt Ltd,```,0,0,0,0,0
+343,Amit Sinha,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Amit Sinha,Amit Sinha,Amit Sinha,Amit Sinha,0,1,1,1,1
+344,RedBus,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,RedBus,HDFC Bank ThePayeeHDFC Bank,HDFC Bank,```,0,1,0,0,0
+345,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,Rohan Verma,```,0,1,1,1,0
+346,Arjun Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Sharma,Arjun Sharma,arjun.sharma7890@paytm/RefNo:XYZ123/Axis Bank,```,0,1,1,0,0
+347,Meera Joshi,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Meera Joshi,Meera Joshi,meera joshi8654@okaxis,```,0,1,1,0,0
+348,Ramesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar,Ramesh Kumar Ramesh Kumar,Ramesh Kumar,```,0,1,0,1,0
+349,Ramesh Kumar Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar Sharma,Ramesh Kumar Sharma Ramesh Kumar Sharma,Ramesh Kumar Sharma,```,0,1,0,1,0
+350,Rohan Varma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Varma,Rohan Varma,Isha Menon,```,0,1,1,0,0
+351,Ankit Gupta,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ankit Gupta,Ankit Gupta,ankit gupta,```,0,1,1,1,0
+352,Vivek Iyer,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Vivek Iyer,Vivek Iyer,vivek iyer,```,0,1,1,1,0
+353,Pantaloons,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Dr.Pantaloons,Pantaloons,Pantaloons,```,0,0,1,1,0
+354,Saurabh Jain,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Diwali Gifts,Saurabh Jain,Saurabh Jain,```,0,0,1,1,0
+355,Mahendra Patil,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Mahendra Patil,Mahendra Patil,mahendra patil1174@upi,```,0,1,1,0,0
+356,Sneha Nair,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Groceries,Sneha Nair,Sneha Nair,```,0,0,1,1,0
+357,Raghav Bhatia,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Raghav Bhatia,Raghav Bhatia,Raghav Bhatia,```,0,1,1,1,0
+358,Neha Kulkarni,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,BigBasket,Neha Kulkarni,neha kulkarni7631@ibl,```,0,0,1,0,0
+359,Ramesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar,Ramesh Kumar,Ramesh Kumar,```,0,1,1,1,0
+360,Ramesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar,Ramesh Kumar,Ramesh Kumar,**Ramesh Kumar**,0,1,1,1,0
+361,Rohit Tiwari,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohit Tiwari,Rohit Tiwari,rohit tiwari1124@okhdfcbank,```,0,1,1,0,0
+362,Reliance Smart,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Reliance Smart,Isha Menon,UPI/DR/isha menon9902@oksbi/Grocery bill - Reliance Smart/UPI TRAN//OKSBI789012,```,0,1,0,0,0
+363,Harshit Bansal,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Harshit Bansal,Harshit Bansal,Harshit Bansal6550@oksbi,Harshit Bansal,0,1,1,0,1
+364,Rajesh Kumar Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajesh Kumar Sharma,Rajesh Kumar Sharma,ICICI,```,0,1,1,0,0
+365,Arjun Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Sharma,Arjun Sharma,arjun.sharma1992@paytm,```,0,1,1,0,0
+366,Shivani Das,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Shivani Das,SHIVANI DAS,SHIVANI DAS1322@OKSBI/UCBA/TXN,```,0,1,1,0,0
+367,Rajeev Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajeev Kumar,Rajeev Kumar,Sneha Nair,```,0,1,1,0,0
+368,Ola,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ola,Ola,Ola,```,0,1,1,1,0
+369,Meera Joshi,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Meera Joshi,Meera Joshi,meera.joshi7764@upi,```,0,1,1,0,0
+370,Kiran Mehta,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Kiran Mehta,Kiran Mehta,Kiran,```,0,1,1,0,0
+371,Harshit Bansal,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Harshit Bansal,Harshit Bansal,Harshit Bansal,```,0,1,1,1,0
+372,Pizza Hut,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Pizza Hut,Pizza Hut Rest,Pizza Hut Rest,```,0,1,0,0,0
+373,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,yash.nigam8184@oksbi,```,0,1,1,0,0
+374,Ankit Gupta,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ankit Gupta,Ankit Gupta,Ankit Gupta,```,0,1,1,1,0
+375,Nandini Roy7110@paytm,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Nandini Roy,Nandini Roy,Nandini Roy7110@paytm,```,0,0,0,1,0
+376,Saurabh Jain,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Saurobh Jain,Saurabh Jain,Saurabh Jain,```,0,0,1,1,0
+377,Ravi Kumar Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ravi Kumar Sharma,Ravi Kumar Sharma,UPI TRAN/P2P/HDFC0000456789/EXPRESS PAY,```,0,1,1,0,0
+378,BigBasket,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,BigBasket,BigBasket Grocery,BB.,```,0,1,0,0,0
+379,Arjun Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Sharma,Arjun Sharma,arjun.sharma1992@paytm,```,0,1,1,0,0
+380,Raseel Khan,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Raseel Khan,Raseel Khan,Raseel Khan3089@ybl/ICICI BANK,```,0,1,1,0,0
+381,Meera Joshi,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Meera Joshi,Meera Joshi,meera joshi6434@upi,```,0,1,1,0,0
+382,Rajesh Kumar Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajesh Kumar Sharma,Rajesh Kumar Sharma,Rajesh Kumar Sharma,**Rajesh Kumar Sharma**,0,1,1,1,0
+383,Rahul Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rahul Sharma,Rahul Sharma,Rahul Sharma,```,0,1,1,1,0
+384,Apoorva Singh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Apoorva Singh,Apoorva Singh,Apoorva Singh,```,0,1,1,1,0
+385,Ravi Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ravi Kumar,Ravi Kumar,Ravi Kumar,```,0,1,1,1,0
+386,Mahendra Patil,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Mahendra Patil,Mahendra Patil,mahendra patil6248@oksbi,```,0,1,1,0,0
+387,Rahul Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rahul Sharma,Rahul Sharma,rahul sharma8719@upi,```,0,1,1,0,0
+388,Rohit Tiwari,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohit Tiwari,Rohit Tiwari,rohit tiwari3902@upi,```,0,1,1,0,0
+389,Isha Menon,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Isha Menon,Isha Menon,IMPS/REF 78901234567890/,```,0,1,1,0,0
+390,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,Rohan Verma,```,0,1,1,1,0
+391,Manoj Yadav,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Manoj Yadav,Manoj Yadavad,mojyadav,manoj yadav,0,1,0,0,1
+392,Zomato,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Zomato,Zomato,UPI TRAN,```,0,1,1,0,0
+393,Reliance Digital,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Reliance Digital,Reliance RetailThe Payee is Reliance Retail,Reliance Retail,,0,1,0,0,0
+394,Ritika Chawla,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ritika Chawla,Ritika Chawla,RITIKA CHAWLA,RITIKA CHAWLA,0,1,1,1,1
+395,Priya Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Priya Verma,Priva Verma,Priya Verma,```,0,1,0,1,0
+396,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,Rohan Verma,```,0,1,1,1,0
+397,Harshit Bansal,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Harshit Bansal,Harshit Bansal,Harshit Bansal5072@oksbi,```,0,1,1,0,0
+398,Shreya Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Shreya Sharma,Shreya Sharma,Shreya Sharma,**shreya.sharma789@paytm**,0,1,1,1,0
+399,Rajesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajesh Kumar,Rajesh Kumar,Rajesh Kumar,```,0,1,1,1,0
+400,Dominos Pizza,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Domino's Pizza,Dominos Pizza,UPI ID: paynow@dominos/AXISB,,0,0,1,0,0
+401,Vijay Kumar Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Vijay Kumar Sharma,Vijay Kumar Sharma,vijay kumar sharma,```,0,1,1,1,0
+402,Ankit Gupta,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ankit Gupta,Ankit Gupta,Ankit Gupta,```,0,1,1,1,0
+403,Neha Kulkarni,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Neha Kulkarni,Neha Kulkarni,neha kulkarni728@ibl,```,0,1,1,0,0
+404,Dominos Pizza,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Domino's Pizza,Dominos Pizza,Dominos Pizza,```,0,0,1,1,0
+405,Saurabh Jain,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Saarabh Jain,Saurabh Jain,Saurabh Jain,```,0,0,1,1,0
+406,Ravi Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ravi Kumar,Ravi Kumar,Ravi Kumar,```,0,1,1,1,0
+407,Arjun Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Sharma,Arjun Sharma,Arjun Sharma,```,0,1,1,1,0
+408,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,Rohan Verma,```,0,1,1,1,0
+409,Vijay Sales,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Vijay Sales,Vijay Sales,Vijay Sales,```,0,1,1,1,0
+410,Aarav Kapoor,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arav Kapoor,Aarav Kapoor,Aarav Kapoor,```,0,0,1,1,0
+411,Paytm,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Paytm,abc@paytm,abc@paytm,```,0,1,0,0,0
+412,Reliance Digital,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Reliance Digital,Reliance Digital,Ref-231015-1456/Swipe transaction,```,0,1,1,0,0
+413,Raseel Khan,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Raseel Khan,Raseel Khan,Raseel Khan,```,0,1,1,1,0
+414,Aravind Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Aravind Sharma,Aravind Sharma,Aravind Sharma,```,0,1,1,1,0
+415,Jio Platforms,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Jio,JIO PLATFORMS LTDThe Payee isJIO PLATFORMS LTD,Sneha Nair,```,0,0,0,0,0
+416,Saurabh Jain,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Saurabh Jain,Saurabh Jain,Saurabh Jain,```,0,1,1,1,0
+417,Sneha Nair,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Sneha Nair,Sneha Nair,Sneha Nair,Sneha Nair,0,1,1,1,1
+418,Gaurav Malhotra,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Gaurav Malhotra,Gaurav Malhotra,gaurav malhotra7589@okhdfcbank,```,0,1,1,0,0
+419,Sneha Nair,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Paytm,Sneha Nair,Sneha Nair,Sneha Nair,0,0,1,1,1
+420,Lakshmi Pillai,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Lakshmi Pillai,Lakshmi Pillai,lakshmi pillai7121@okhdfcbank,```,0,1,1,0,0
+421,Ankit Gupta,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ankit Gupta,Ankit Gupta,ICICI Bank,```,0,1,1,0,0
+422,Arjun Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Sharma,Arjun Sharma,arjun.sharma89@upi/PAYMENT TO ARJUN SHARMA,```,0,1,1,0,0
+423,Nikhil Arora,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Kishan Arora,Nikhil Arora,Nikhil arora,**nikhil arora**,0,0,1,1,0
+424,Rohan Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Sharma,Rohan Sharma,arjun.reddy3051@ybl/PMT,```,0,1,1,0,0
+425,Lakshmi Pillai,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Lakshmi Pillai,Lakshmi Pillai,Lakshmi Pillai,Lakshmi Pillai,0,1,1,1,1
+426,Tanvi Desai,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Tanvi Desai,Tanvi Desai,tanvi.desai6793@okaxis,tanvi.desai6793@okaxis,0,1,1,0,0
+427,Arjun Reddy,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Reddy,Arjun Reddy,Arjun Reddy,```,0,1,1,1,0
+428,Ankit Gupta,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ankit Gupta,Axis Bank,Ankit Gupta,```,0,1,0,1,0
+429,Shivani Das,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Shivani Das,Shivani Das,Shivani Das,```,0,1,1,1,0
+430,Ramesh Kumar Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar Sharma,Ramesh Kumar Sharma Ramesh Kumar Sharma,Ramesh Kumar Sharma,**Ramesh Kumar Sharma**,0,1,0,1,0
+431,Priya Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Priya Verma,Priya Verma,priya verma,```,0,1,1,1,0
+432,Pooja Batra,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Pooja Batra,Pooja Batra,Pooja Batra,```,0,1,1,1,0
+433,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,nandini.roy7483@ibl,```,0,1,1,0,0
+434,Isha Menon,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Isha Menon,Isha Menon,menon9205@oksbi,```,0,1,1,0,0
+435,Vivek Iyer,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Vivek Iyer,Vivek Iyer,vivek iyer8605@oksbi,vivek iyer,0,1,1,0,1
+436,Isha Menon,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,BigBasket,Isha Menon,Isha Menon,```,0,0,1,1,0
+437,Rajesh Kumar Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajesh Kumar Sharma,Rajesh Kumar Sharma,Rajesh Kumar Sharma,```,0,1,1,1,0
+438,Ramesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar,Ramesh Kumar Ramesh Kumar,Ramesh Kumar,```,0,1,0,1,0
+439,Manoj Yadav,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,BigBasket,Manoj Yadav,manoj yadav6529@upi/Groceries,manoj yadav6529@upi,0,0,1,0,0
+440,Saurabh Jain,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Saurobh Jain,Saurabh Jain,ICICI BANK,```,0,0,1,0,0
+441,Manoj Yadav,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Manoj Yadav,Manoj Yadav,Moj Yadav,manoj yadav,0,1,1,0,1
+442,Mahendra Patil,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Mahendra Patil,Mahendra Patil,mahendra.patil3276@ybl,```,0,1,1,0,0
+443,JioMart,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,JioMart,JioMart,JioMart,```,0,1,1,1,0
+444,Amit Sinha,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Amit Sinha,Amit Sinha,Amit Sinha,```,0,1,1,1,0
+445,Cafe Coffee Day,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Cafe Coffee Day,Café Coffee Day,CCDCORP234567,```,0,1,0,0,0
+446,Ritika Chawla,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ritika Chawla,Ritika Chawla,RITIKA CHAWLA90@OKSBI,RITIKA CHAWLA,0,1,1,0,1
+447,Isha Menon,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Isha Menon,Isha Menon,Isha Menon,```,0,1,1,1,0
+448,Priya Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Priya Sharma,Priya Sharma,Priya Sharma,**Priya Sharma**,0,1,1,1,0
+449,Rajesh Kumar Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rajesh Kumar Sharma,Rajesh Kumar Sharma Rajesh Kumar Sharma,Rajesh Kumar Sharma,```,0,1,0,1,0
+450,Ankit Gupta,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ankit Gupta,Ankit Gupta,Ankit Gupta,```,0,1,1,1,0
+451,Neha Kulkarni,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Neha Kulkarni,Neha Kulkarni,Neha Kulkarni,```,0,1,1,1,0
+452,IndiGo Airlines,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,IndiGo Airlines,IndiGo Airlines,Air India,```,0,1,1,0,0
+453,Meera Joshi,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Meera Joshi,Meera Joshi,meera joshi,```,0,1,1,1,0
+454,Priya Sharma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Priya Sharma,Priya Sharma,Priya Sharma,```,0,1,1,1,0
+455,Reliance Retail,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Reliance Retail,Reliance Retail,mahendra patil6606@oksbi/PMT for groceries - Reliance Retail/ONLY RS 499.99,**mahendra patil**,0,1,1,0,0
+456,Aarav Kapoor,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Aarav Kapoor,Aarav Kapoor,Aarav Kapoor,**Aarav Kapoor**,0,1,1,1,0
+457,Reliance Fresh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Reliance Fresh,Reliance FreshThe Payee is Reliance Fresh,Reliance Fresh,,0,1,0,1,0
+458,Rohan Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Verma,Rohan Verma,Rohan Verma,```,0,1,1,1,0
+459,Isha Menon,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Rohan Menon,Isha Menon,Isha Menon,```,0,0,1,1,0
+460,Manoj Yadav,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Manoj Yadav,Manoj Yadav,Manoj Yadav,```,0,1,1,1,0
+461,Isha Menon,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Airtel,Isha Menon,Airtel Prepaid,```,0,0,1,0,0
+462,Apoorva Singh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Apoorva Singh,Apoorva Singh,Apoorva Singh,```,0,1,1,1,0
+463,Tanvi Desai,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Tanvi Desai,Tanvi Desai,Tanvi Desai,tanvi desai,0,1,1,1,1
+464,Priya Verma,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Priya Verma,Priya Verma,priya verma7876@ibl,```,0,1,1,0,0
+465,Arjun Reddy,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Reddy,Arjun Reddy,friend,```,0,1,1,0,0
+466,Neha Kulkarni,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Neha Kulkarni,Neha Kulkarni,Neha Kulkarni8177@paytm,```,0,1,1,0,0
+467,Shivani Das,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Shivani Das,Shivani Das,Shivani das,```,0,1,1,1,0
+468,Reliance Fresh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Reliance Fresh,Nikhil Arora,Reliance Fresh,```,0,1,0,1,0
+469,Ramesh Kumar,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ramesh Kumar,Ramesh Kumar Ramesh Kumar,Ramesh Kumar,```,0,1,0,1,0
+470,Sneha Nair,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Sneha Nair,Sneha Nair,Sneha Nair,```,0,1,1,1,0
+471,Reliance Fresh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Reliance Fresh,Arjun Sharma,arjun.sharma1992@ibl,```,0,1,0,0,0
+472,Ankit Gupta,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Ankit Gupta,Ankit Gupta,ankit gupta1852@upi,```,0,1,1,0,0
+473,Pantaloons,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Pantaloons,Pantaloans,Pantaloons,```,0,1,0,1,0
+474,Isha Menon,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Isha Menon,Isha Menon,Isha Menon,```,0,1,1,1,0
+475,Raseel Khan,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Raseel Khan,Raseel Khan,Raseel Khan8544@okhdfcbank,**Raseel Khan**,0,1,1,0,0
+476,Manoj Yadav,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Manoj Yadav,Manoj Yadav,manoj yadav4214@okaxis,manoj yadav,0,1,1,0,1
+477,Nikhil Arora,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,NIHIL ARORA,Nikhil Arora,nikhil.arora5828@upi,**nikhil.arora5828**,0,0,1,0,0
+478,Sneha Nair,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Bill Payment,Sneha Nair,Sneha Nair,```,0,0,1,1,0
+479,Raseel Khan,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Raseel Khan,Raseel Khan Raseel Khan,Raseel Khan,```,0,1,0,1,0
+480,Neha Kulkarni,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Neha Kulkarni,Neha Kulkarni,neha kulkarni,```,0,1,1,1,0
+481,Vivek Iyer,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Vivek Iyer,Vivek Iyer,vivek iyer90@paytm,```,0,1,1,0,0
+482,Vivek Iyer,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Vivek Iyer,Vivek Iyer,vivek iyer3770@oksbi,```,0,1,1,0,0
+483,Harshit Bansal,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Harshit Bansal,Harshit Bansal,Harshit Bansal,```,0,1,1,1,0
+484,Reliance Fresh,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Arjun Verma,Arjun Verma,arjun.verma91@upi/Grocery,```,0,0,0,0,0
+485,Amit Sinha,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,Amit Sinha,Amit Sinha,Amit Sinha,```,0,1,1,1,0

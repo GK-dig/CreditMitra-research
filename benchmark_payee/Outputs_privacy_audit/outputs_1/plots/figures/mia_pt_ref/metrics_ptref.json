@@ -1,0 +1,22 @@
+{
+  "lora_basic": {
+    "auc": 0.543294551982252,
+    "ap": 0.5463251236405362,
+    "label": "QLoRA non-private"
+  },
+  "dp_basic": {
+    "auc": 0.5353011905366729,
+    "ap": 0.5311104314027,
+    "label": "DP-QLoRA (\u03b5\u22480.9938)"
+  },
+  "lora_ptref": {
+    "auc": 0.5205380277396738,
+    "ap": 0.5226273049196863,
+    "label": "QLoRA non-private +ptRef"
+  },
+  "dp_ptref": {
+    "auc": 0.522354315907128,
+    "ap": 0.5292852731719504,
+    "label": "DP-QLoRA +ptRef"
+  }
+}
