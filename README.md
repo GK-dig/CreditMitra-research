@@ -1,5 +1,5 @@
-# DP-QLoRA Benchmark & Privacy Audit — Complete Script Suite
-## CreditMitra · Qwen2.5-1.5B · ε=1.9911 · On-premise RBI-compliant
+# DP-QLoRA Benchmark & Privacy Audit 
+## CreditMitra · Qwen2.5-1.5B · ε=1.9911 
 
 All scripts write to: `benchmark_payee/outputs_privacy_audit/`
 
@@ -24,25 +24,19 @@ Targets    = q_proj, k_proj, v_proj, o_proj
 
 ## Scripts at a Glance
 
-| Script | GPU? | Runtime | What it proves |
-|--------|------|---------|----------------|
-| `script4_tradeoff.py` | **No** | < 1 min | ε=2 is the utility knee; full model comparison |
-| `script5_hyperparam.py` | **No** | < 1 min | Every hyperparameter justified with research backing |
-| `script1_extraction.py` | Yes | 15–25 min | DP suppresses verbatim memorization |
-| `script2_canary.py` | Yes | 20–30 min | DP prevents name↔handle recall (fixed canary) |
-| `script3_mia.py` | Yes | 30–45 min | 8-variant MIA all ≈ 0.51 AUC on ε=2 model |
-
-<!-- **Recommended run order:** 4 → 5 → 1 → 2 → 3 → 4 (re-run to pick up live MIA) -->
+| Script | What it proves |
+|--------|----------------|
+| `script4_tradeoff.py` | ε=2 is the utility knee; full model comparison |
+| `script5_hyperparam.py` | Every hyperparameter justified with research backing |
+| `script1_extraction.py` | DP suppresses verbatim memorization |
+| `script2_canary.py` | DP prevents name↔handle recall (fixed canary) |
+| `script3_mia.py` | 8-variant MIA all ≈ 0.51 AUC on ε=2 model |
 
 ---
 
 ## Script 4 — Privacy-Utility Tradeoff Dashboard
-**File:** `script4_tradeoff.py`  **GPU: None**
-
-Assembles the core story from your existing JSON outputs. 
-
-
-**Plots:**
+**File:** `script4_tradeoff.py`  
+**plots:**
 - Utility (F1) vs ε — all models compared
 - Privacy-utility knee curve (ε=2 is the operating point)
 - MIA-AUC vs ε (privacy floor — updates automatically from script 3)
@@ -56,15 +50,15 @@ python script4_tradeoff.py --project_root /path/to/benchmark_payee
 
 **Outputs:**
 ```
-script4_tradeoff_dashboard.pdf    # main 6-panel figure
-script4_knee_standalone.pdf       # standalone for LaTeX \includegraphics
-script4_eps_accumulation.pdf      # standalone ε curves for LaTeX
+script4_tradeoff_dashboard.pdf    
+script4_knee_standalone.pdf       
+script4_eps_accumulation.pdf      
 ```
 
 ---
 
-## Script 5 — Hyperparameter Justification Dashboard
-**File:** `script5_hyperparam.py`  **GPU: None**
+## Script 5 — Hyperparameter Justification 
+**File:** `script5_hyperparam.py`  
 
 Shows WHY every hyperparameter was chosen using the 4-account ε sweep
 results, the Google "How to DP-fy ML" paper framework, and the real
@@ -104,13 +98,14 @@ script5_error_breakdown.pdf
 
 ## Script 1 — Training Data Extraction Test
 **File:** `script1_extraction.py`  
+**File:** `script1_extraction.py`  
 
 Gives the model the first 50% of a REAL training narration and checks if it
 can complete the suffix verbatim. The suffix is HIDDEN the model must have
 memorized it to reproduce it. If DP model completes fewer train suffixes than
 non-DP but both are similar on val → DP reduced memorization.
 
-This is a legitimate privacy test because:
+This is a privacy test because:
 - Uses real training narrations, not fake canaries
 - Suffix never appears in the query
 - Train vs val comparison isolates memorization from general capability
@@ -125,16 +120,16 @@ python script1_extraction.py \
 **Outputs:**
 ```
 s1_dp_train.json / s1_lora_train.json / s1_dp_val.json / s1_lora_val.json
-script1_extraction_test.pdf    # 6-panel: bars, sim distributions,
-                               # train vs val matrix, summary box
+script1_extraction_test.pdf    
+                              
 ```
 
 ---
 
-## Script 2 — Canary Memorization Test
-**File:** `script2_canary.py`  **GPU: Yes (outputs_2 + outputs_8)**
+## Script 2 — Canary Memorization Test 
+**File:** `script2_canary.py`  
 
-### What this script does 
+### What this script does
 The canary name is completely HIDDEN from the query. Only the UPI handle
 derived from it is shown:
 
@@ -206,10 +201,10 @@ python script3_mia.py \
 **Outputs:**
 ```
 s3_mia_dp_metrics.json / s3_mia_nondp_metrics.json
-script3_mia_bar_comparison.pdf    # 8 attacks side-by-side bar chart
-script3_mia_roc_grid.pdf          # 8 ROC curves in 2×4 grid
-script3_loss_distributions.pdf    # member vs non-member loss histograms
-script3_mia_summary_table.pdf     # formatted colour-coded results table
+script3_mia_bar_comparison.pdf    
+script3_mia_roc_grid.pdf         
+script3_loss_distributions.pdf   
+script3_mia_summary_table.pdf     
 ```
 
 ---
@@ -250,7 +245,7 @@ python script4_tradeoff.py  --project_root .
 | 3 | 8-variant MIA | No attack > AUC 0.52 on ε=1.9911 model |
 
 Together these establish:
-- **Formal ceiling:** ε=1.9911, δ=2.5×10⁻⁴ (Claim 6 in benchmark doc)
+- **Formal ceiling:** ε=1.9911, δ=2.5×10⁻⁴ 
 - **Empirical floor:** scripts 1–3 all show no detectable leakage
 - **Hyperparameter integrity:** every knob justified by theory + sweep evidence
 
