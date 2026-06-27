@@ -1,0 +1,66 @@
+{
+  "Basic\nLOSS": {
+    "label": "DP Basic\nLOSS",
+    "mia_auc": 0.5095,
+    "avg_precision": 0.514,
+    "accuracy": 0.5206,
+    "tpr_at_fpr10": 0.1214,
+    "verdict": "Near-random (strong)"
+  },
+  "PT-Ref\nLOSS": {
+    "label": "DP PT-Ref\nLOSS",
+    "mia_auc": 0.4955,
+    "avg_precision": 0.5063,
+    "accuracy": 0.5113,
+    "tpr_at_fpr10": 0.107,
+    "verdict": "Near-random (strong)"
+  },
+  "Resp-Only\nLOSS": {
+    "label": "DP Resp-Only\nLOSS",
+    "mia_auc": 0.4941,
+    "avg_precision": 0.4969,
+    "accuracy": 0.5041,
+    "tpr_at_fpr10": 0.0,
+    "verdict": "Near-random (strong)"
+  },
+  "PT-Ref\nResp": {
+    "label": "DP PT-Ref\nResp",
+    "mia_auc": 0.5019,
+    "avg_precision": 0.4998,
+    "accuracy": 0.5041,
+    "tpr_at_fpr10": 0.0514,
+    "verdict": "Near-random (strong)"
+  },
+  "Min-K%\nProb": {
+    "label": "DP Min-K%\nProb",
+    "mia_auc": 0.5273,
+    "avg_precision": 0.5252,
+    "accuracy": 0.5329,
+    "tpr_at_fpr10": 0.1317,
+    "verdict": "Near-random (strong)"
+  },
+  "PT-Ref\nMin-K%": {
+    "label": "DP PT-Ref\nMin-K%",
+    "mia_auc": 0.52,
+    "avg_precision": 0.5196,
+    "accuracy": 0.5247,
+    "tpr_at_fpr10": 0.1111,
+    "verdict": "Near-random (strong)"
+  },
+  "Loss\nVariance": {
+    "label": "DP Loss\nVariance",
+    "mia_auc": 0.5291,
+    "avg_precision": 0.5328,
+    "accuracy": 0.536,
+    "tpr_at_fpr10": 0.1193,
+    "verdict": "Near-random (strong)"
+  },
+  "Zlib\nNorm": {
+    "label": "DP Zlib\nNorm",
+    "mia_auc": 0.5103,
+    "avg_precision": 0.4949,
+    "accuracy": 0.5298,
+    "tpr_at_fpr10": 0.072,
+    "verdict": "Near-random (strong)"
+  }
+}

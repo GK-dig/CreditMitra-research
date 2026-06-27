@@ -1,0 +1,126 @@
+{
+  "dp": [
+    {
+      "name": "Zephyranth Bvlgari",
+      "canary_lp": -9.352678298950195,
+      "control_mean_lp": -8.650117258871756,
+      "exposure_rank": 0.3656
+    },
+    {
+      "name": "Xanthoppe Mirzoyan",
+      "canary_lp": -7.03125,
+      "control_mean_lp": -8.650117258871756,
+      "exposure_rank": 0.6237
+    },
+    {
+      "name": "Quillivant Forsythe",
+      "canary_lp": -9.421875,
+      "control_mean_lp": -8.650117258871756,
+      "exposure_rank": 0.3656
+    },
+    {
+      "name": "Ozymandias Kettleworth",
+      "canary_lp": -7.838541507720947,
+      "control_mean_lp": -8.650117258871756,
+      "exposure_rank": 0.5269
+    },
+    {
+      "name": "Velaryon Duskmantle",
+      "canary_lp": -6.573660850524902,
+      "control_mean_lp": -8.650117258871756,
+      "exposure_rank": 0.6989
+    },
+    {
+      "name": "Isambard Crumplehorn",
+      "canary_lp": -8.208333015441895,
+      "control_mean_lp": -8.650117258871756,
+      "exposure_rank": 0.4946
+    },
+    {
+      "name": "Thessalonica Wyndmere",
+      "canary_lp": -8.1953125,
+      "control_mean_lp": -8.650117258871756,
+      "exposure_rank": 0.4946
+    },
+    {
+      "name": "Balthazar Quigglesworth",
+      "canary_lp": -9.059895515441895,
+      "control_mean_lp": -8.650117258871756,
+      "exposure_rank": 0.3871
+    },
+    {
+      "name": "Peregrinus Thistlewood",
+      "canary_lp": -7.212239742279053,
+      "control_mean_lp": -8.650117258871756,
+      "exposure_rank": 0.6129
+    },
+    {
+      "name": "Amaranthine Volkhovsky",
+      "canary_lp": -7.5849609375,
+      "control_mean_lp": -8.650117258871756,
+      "exposure_rank": 0.5806
+    }
+  ],
+  "nondp": [
+    {
+      "name": "Zephyranth Bvlgari",
+      "canary_lp": -7.3507256507873535,
+      "control_mean_lp": -7.726165745847968,
+      "exposure_rank": 0.4516
+    },
+    {
+      "name": "Xanthoppe Mirzoyan",
+      "canary_lp": -7.381312847137451,
+      "control_mean_lp": -7.726165745847968,
+      "exposure_rank": 0.4409
+    },
+    {
+      "name": "Quillivant Forsythe",
+      "canary_lp": -8.2265625,
+      "control_mean_lp": -7.726165745847968,
+      "exposure_rank": 0.3441
+    },
+    {
+      "name": "Ozymandias Kettleworth",
+      "canary_lp": -6.552225589752197,
+      "control_mean_lp": -7.726165745847968,
+      "exposure_rank": 0.5806
+    },
+    {
+      "name": "Velaryon Duskmantle",
+      "canary_lp": -5.882080078125,
+      "control_mean_lp": -7.726165745847968,
+      "exposure_rank": 0.6667
+    },
+    {
+      "name": "Isambard Crumplehorn",
+      "canary_lp": -8.143778800964355,
+      "control_mean_lp": -7.726165745847968,
+      "exposure_rank": 0.3441
+    },
+    {
+      "name": "Thessalonica Wyndmere",
+      "canary_lp": -6.662271976470947,
+      "control_mean_lp": -7.726165745847968,
+      "exposure_rank": 0.5591
+    },
+    {
+      "name": "Balthazar Quigglesworth",
+      "canary_lp": -9.208333015441895,
+      "control_mean_lp": -7.726165745847968,
+      "exposure_rank": 0.2796
+    },
+    {
+      "name": "Peregrinus Thistlewood",
+      "canary_lp": -7.07421875,
+      "control_mean_lp": -7.726165745847968,
+      "exposure_rank": 0.4839
+    },
+    {
+      "name": "Amaranthine Volkhovsky",
+      "canary_lp": -7.673055171966553,
+      "control_mean_lp": -7.726165745847968,
+      "exposure_rank": 0.3763
+    }
+  ]
+}
