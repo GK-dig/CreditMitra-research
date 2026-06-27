@@ -5,11 +5,11 @@ All scripts write to: `benchmark_payee/outputs_privacy_audit/`
 
 ---
 
-## Fixed Configuration (do not change across runs)
+## Configuration used 
 
 ```
 BASE_MODEL   = Qwen/Qwen2.5-1.5B-Instruct
-MAX_LENGTH   = 64              # compliance requirement
+MAX_LENGTH   = 64              
 ε  = 1.9911  (outputs_2)      # operating point — ε sweep knee
 δ  = 2.5×10⁻⁴  ≈ 1/N         # N=4382 training records
 C  = 1.5                       # per-sample clipping norm
@@ -32,23 +32,23 @@ Targets    = q_proj, k_proj, v_proj, o_proj
 | `script2_canary.py` | Yes | 20–30 min | DP prevents name↔handle recall (fixed canary) |
 | `script3_mia.py` | Yes | 30–45 min | 8-variant MIA all ≈ 0.51 AUC on ε=2 model |
 
-**Recommended run order:** 4 → 5 → 1 → 2 → 3 → 4 (re-run to pick up live MIA)
+<!-- **Recommended run order:** 4 → 5 → 1 → 2 → 3 → 4 (re-run to pick up live MIA) -->
 
 ---
 
 ## Script 4 — Privacy-Utility Tradeoff Dashboard
 **File:** `script4_tradeoff.py`  **GPU: None**
 
-Assembles the core story from your existing JSON outputs. Run this first
-to verify everything works, and again last to pull in live MIA from script 3.
+Assembles the core story from your existing JSON outputs. 
 
-**6-panel dashboard:**
-- Panel A: Utility (F1) vs ε — all models compared
-- Panel B: Privacy-utility knee curve (ε=2 is the operating point)
-- Panel C: MIA-AUC vs ε (privacy floor — updates automatically from script 3)
-- Panel D: ε accumulation across all four training runs (RDP accountant live)
-- Panel E: Full benchmark table — all models, all metrics
-- Panel F: Error breakdown — exact→partial shift, not catastrophic failure
+
+**Plots:**
+- Utility (F1) vs ε — all models compared
+- Privacy-utility knee curve (ε=2 is the operating point)
+- MIA-AUC vs ε (privacy floor — updates automatically from script 3)
+- ε accumulation across all four training runs (RDP accountant live)
+- Full benchmark table — all models, all metrics
+- Error breakdown — exact→partial shift, not catastrophic failure
 
 ```bash
 python script4_tradeoff.py --project_root /path/to/benchmark_payee
@@ -70,16 +70,16 @@ Shows WHY every hyperparameter was chosen using the 4-account ε sweep
 results, the Google "How to DP-fy ML" paper framework, and the real
 trainer_state from checkpoint-400. Two output pages.
 
-**Page 1 — 9-panel quantitative dashboard:**
-- Panel A: ε sweep knee from outputs_1/2/4/8 — why ε=2
-- Panel B: Privacy tier framework — your model vs Gboard/Facebook/Apple
-- Panel C: NSR vs batch size (theory curve + your B=24 point)
-- Panel D: LoRA rank vs trainable params — why r=16
-- Panel E: Non-DP training dynamics (loss, grad norm, LR from real trainer_state)
-- Panel F: DP training dynamics — loss + per-epoch ε (outputs_2)
-- Panel G: Full model comparison — all 8 models, EM + char-sim
-- Panel H: DP cost anatomy — exact→partial, not catastrophic failure
-- Panel I: NSR for all four ε runs from actual σ values
+**Quantitave Plots:**
+- ε sweep knee from outputs_1/2/4/8 — why ε=2
+- Privacy tier framework — model computed vs Gboard/Facebook/Apple
+- NSR vs batch size (theory curve + your B=24 point)
+- LoRA rank vs trainable params — why r=16
+- Non-DP training dynamics (loss, grad norm, LR from real trainer_state)
+- DP training dynamics — loss + per-epoch ε (outputs_2)
+- Full model comparison — all 8 models, EM + char-sim
+- DP cost anatomy — exact→partial, not catastrophic failure
+- NSR for all four ε runs from actual σ values
 
 **Page 2 — Hyperparameter justification table:**
 Every parameter (ε, δ, C, B, r, α, epochs, MAX_LENGTH, accounting, sampling)
@@ -91,22 +91,22 @@ python script5_hyperparam.py --project_root /path/to/benchmark_payee
 
 **Outputs:**
 ```
-script5_hyperparam_dashboard.pdf  # 9-panel figure (page 1)
-script5_hyperparam_table.pdf      # justification table (page 2)
-script5_eps_sweep.pdf             # standalone A for LaTeX
-script5_nsr_batch.pdf             # standalone C for LaTeX
-script5_dp_dynamics.pdf           # standalone F for LaTeX
-script5_full_comparison.pdf       # standalone G for LaTeX
-script5_error_breakdown.pdf       # standalone H for LaTeX
+script5_hyperparam_dashboard.pdf  
+script5_hyperparam_table.pdf     
+script5_eps_sweep.pdf             
+script5_nsr_batch.pdf             
+script5_dp_dynamics.pdf           
+script5_full_comparison.pdf       
+script5_error_breakdown.pdf       
 ```
 
 ---
 
 ## Script 1 — Training Data Extraction Test
-**File:** `script1_extraction.py`  **GPU: Yes (outputs_2 + outputs_8)**
+**File:** `script1_extraction.py`  
 
 Gives the model the first 50% of a REAL training narration and checks if it
-can complete the suffix verbatim. The suffix is HIDDEN — the model must have
+can complete the suffix verbatim. The suffix is HIDDEN the model must have
 memorized it to reproduce it. If DP model completes fewer train suffixes than
 non-DP but both are similar on val → DP reduced memorization.
 
@@ -131,16 +131,10 @@ script1_extraction_test.pdf    # 6-panel: bars, sim distributions,
 
 ---
 
-## Script 2 — Canary Memorization Test (Fixed)
+## Script 2 — Canary Memorization Test
 **File:** `script2_canary.py`  **GPU: Yes (outputs_2 + outputs_8)**
 
-### Why the original canary.py was wrong
-The original script embedded the canary name INSIDE the query narration and
-asked the model to extract it. That is the ordinary extraction task — solvable
-with zero memorization. The DP model scored lower because DP hurts extraction
-utility, not because it reduced memorization.
-
-### What this script does instead
+### What this script does 
 The canary name is completely HIDDEN from the query. Only the UPI handle
 derived from it is shown:
 
@@ -179,8 +173,8 @@ script2_canary_summary.pdf            # one-page combined summary
 
 ---
 
-## Script 3 — 8-Variant MIA (pinned to outputs_2, ε=1.9911)
-**File:** `script3_mia.py`  **GPU: Yes (outputs_2 + outputs_8 + PT base)**
+## Script 3 — 8-Variant MIA 
+**File:** `script3_mia.py`  
 
 Runs all 8 MIA variants from the Google DP guide and the paper's Fig 6,
 ALL targeting outputs_2 (ε=1.9911) so the attack evidence and the claimed ε
@@ -243,9 +237,6 @@ python script3_mia.py        --project_root . --max_samples 486
 python script4_tradeoff.py  --project_root .
 ```
 
-Each GPU script deletes its models and calls `torch.cuda.empty_cache()`
-before exiting — but a full runtime restart between scripts is safer on T4.
-
 ---
 
 ## What Each Script Proves
@@ -272,7 +263,7 @@ benchmark_payee/outputs_privacy_audit/
 ├── script4_tradeoff_dashboard.pdf       # ε sweep story
 ├── script4_knee_standalone.pdf
 ├── script4_eps_accumulation.pdf
-├── script5_hyperparam_dashboard.pdf     # 9-panel hyperparam justification
+├── script5_hyperparam_dashboard.pdf     # hyperparam justification
 ├── script5_hyperparam_table.pdf         # justification table (all params)
 ├── script5_eps_sweep.pdf
 ├── script5_nsr_batch.pdf
